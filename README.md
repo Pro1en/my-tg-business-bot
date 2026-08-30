@@ -1,1 +1,1 @@
-# my-tg-business-bot
+# tg-business-bot
